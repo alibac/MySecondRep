@@ -1,0 +1,114 @@
+<bliotheque>
+
+  <livre type="Poche" style="Policier">
+
+    <titreOriginal lang="en">The Templar Legacy</titreOriginal>
+
+    <titres>
+
+      <titre lang="fr">L'Héritage des Templiers</titre>
+
+    </titres>
+
+    <auteur>
+
+        <nom>BERRY</nom>
+
+        <prenom>Steve</prenom>
+
+    </auteur>
+
+    <annee>2006</annee>
+
+    <resume>Retraité du département de la Justice américaine l'année précédente, Cotton Malone est désormais libraire à Copenhague. De passage en Europe pour ses vacances, son amie et ancienne patronne Stéphanie Nelle l'a invité à prendre un café mais il remarque vite qu'elle est suivie, et l'individu lui vole son sac. Malone se lance à la poursuite du voleur, mais à la surprise générale, celui-ci se suicide aussitôt acculé, alors que le sac à main ne contenait que le journal intime de Lars, le défunt mari de Stéphanie... Et quand le vieux livre que celle-ci est venue acheter aux enchères lui est raflé sous son nez à un prix exorbitant, alors qu'il est obscur et sans intérêt, Malone trouve que ça fait un peu trop de coïncidences : de toute évidence, Lars avait découvert quelque chose dont d'autres voudraient bien s'emparer...</resume>
+
+  </livre>
+
+  <livre style="Théâtre">
+
+    <titreOriginal lang="fr">Le Tartuffe ou l'Imposteur</titreOriginal>
+
+    <auteur>
+
+      <prenom>Molière</prenom>
+
+    </auteur>
+
+    <annee>1664</annee>
+
+    <resume>Orgon est l’archétype du personnage de cour tombé sous la coupe de Tartuffe, un hypocrite et un faux dévot. Il est, ainsi que sa mère, Madame Pernelle, dupe de Tartuffe. Ce dernier réussit à le manipuler en singeant la dévotion et il est même parvenu à devenir son directeur de conscience. Il se voit proposer d'épouser la fille de son bienfaiteur, alors même qu’il tente de séduire Elmire, la femme d'Orgon, plus jeune que son mari. Démasqué grâce à un piège tendu par cette dernière afin de convaincre son mari de l'hypocrisie de Tartuffe, Tartuffe veut ensuite chasser Orgon de chez lui grâce à une donation inconsidérée que celui-ci lui a faite de ses biens. En se servant de papiers compromettants qu’Orgon lui a remis, il va le dénoncer au Roi. Erreur fatale : le Roi a conservé son affection à celui qui l’avait jadis bien servi lors de la Fronde. Il lui pardonne et c’est Tartuffe qui est arrêté.</resume>
+
+  </livre>
+
+  <livre type="Poche" style="Fantastique">
+
+    <titreOriginal lang="fr">Les Fourmis</titreOriginal>
+
+    <titres>
+
+      <titre lang="en">Empire of the Ants</titre>
+
+    </titres>
+
+    <auteur>
+
+      <nom>WERBER</nom>
+
+      <prenom>Bernard</prenom>
+
+    </auteur>
+
+    <annee>1991</annee>
+
+  <resume>Jonathan Wells hérite de la maison de son oncle biologiste, Edmond Wells, dans laquelle il s'installe avec sa famille. Peu à peu, il va mettre à jour ses études et ses découvertes révolutionnaires sur les fourmis en s'aventurant dans la cave, malgré la tentative de dissuasion de ce dernier dans une lettre. Il découvre également une énigme, clef de l'intrigue : « comment faire quatre triangles identiques avec six allumettes ? Cependant un jour il va disparaître et peu à peu, les autres personnes qui tentent de le secourir aussi. Parallèlement, une colonie de fourmis vit son quotidien dans une ville-fourmilière appelée Bel-o-kan. 327éme, une fourmi mâle, avertit la reine que son groupe a été décimé par une force mystérieuse. Il rencontre alors 103 683éme, une fourmi asexuée.</resume>
+
+  </livre>
+
+  <livre  style="Bande Dessinée">
+
+    <titreOriginal lang="fr">Astérix et Latraviata</titreOriginal>
+
+    <titres>
+
+      <titre lang="en">Asterix and the Actress</titre>
+
+      <titre lang="es">Astérix y Latraviata</titre>
+
+      <titre lang="it">Asterix e Latraviata</titre>
+
+    </titres>
+
+    <auteur>
+
+      <nom>UDERZO</nom>
+
+      <prenom>Albert</prenom>
+
+    </auteur>
+
+    <annee>2001</annee>
+
+    <resume>Pompée, l'ennemi juré de César, veut lever secrètement une armée en Gaule mais un soldat ivrogne du nom de Roméomontaigus a subtilisé ses armes en espérant pouvoir les revendre. Quand les armes se retrouvent dans le village d'Astérix, Pompée a l'idée d'utiliser une actrice, sosie de Falbala, pour les récupérer.</resume>
+
+  </livre>
+
+  <livre style="Bande Dessinée">
+
+    <titreOriginal lang="fr">La Reine des mouches</titreOriginal>
+
+    <auteur>
+
+      <nom>GOOSSENS</nom>
+
+      <prenom>Daniel</prenom>
+
+    </auteur>
+
+    <annee>2001</annee>
+
+    <resume>Georges et Louis sont deux romanciers qui travaillent dans le même bureau où Madame Labichette est leur femme de ménage. Louis est très anxieux et pense qu'il se passe quelque chose d'anormal avec les mouches.</resume>
+
+  </livre>
+
+</bibliotheque>
+
