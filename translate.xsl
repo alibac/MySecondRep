@@ -77,6 +77,40 @@
       <xsl:for-each select="$titres/titre">
         <li><xsl:value-of select="." />&#160;(<xsl:value-of select="./@lang" />)</li>
       </xsl:for-each>
-
+<!--tamplate "informations" qui gère l'affichage des informations d'un livre -->
+  <xsl:template name="informations">
+    <xsl:param name="type" />
+    <xsl:param name="style" />
+    <xsl:param name="auteur" />
+    <xsl:param name="date" />
+      
+    <h3>Informations</h3>
+    <ul>
+      <li>
+        <span class="bold">Auteur : </span>
+        <xsl:value-of select="$auteur/prenom" />
+        <!-- Si il y'a un nom -->
+        <xsl:if test="$auteur/nom != ''">
+          &#160;<xsl:value-of select="$auteur/nom" />
+        </xsl:if>
+      </li>
+       <!-- Date  -->
+      <li><span class="bold">Date : </span><xsl:value-of select="$date" /></li>
+       <!-- Si il y'a un type  -->
+        <xsl:if test="$type != ''">
+        <li><span class="bold">Type : </span><xsl:value-of select="$type" /></li>
+      </xsl:if>
+        <!-- Le style  -->
+      <li><span class="bold">Style : </span><xsl:value-of select="$style" /></li>
+    </ul>        
+  </xsl:template>
+ 
+  <!-- template "resume" qui gère l'affichage du résumé d'un livre -->
+  <xsl:template name="resume">
+    <xsl:param name="resume" />
+    
+    <h3>Résumé</h3>
+    <p class="text-justify" ><xsl:value-of select="$resume" /></p>
+  </xsl:template>
 
 </xsl:stylesheet>
